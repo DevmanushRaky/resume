@@ -1,0 +1,110 @@
+{
+  "main": {
+    "name": "raky",
+    "occupation": "LEARNING",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Rakesh! You might also know me as devmanush raky. I've been coding for over 2 months now. As a student I've not work with any startup and large corporations.Few months ago my friend tell me about react sp i join your live sessions and Challenges ,Iam trying to learn ReactJs and want to be a full stack devloper this is my goal and I am sure you will help me Sonny .Thank you for your Attention",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "rakesucluci@gmail.com",
+    "phone": "+919936641565",
+    "address": {
+      "street": "KNIT KASBA",
+      "city": "SULTANPUR",
+      "state": "UTTAR PRADESH",
+      "zip": "228001"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCI2MQbWBeb8Qw_N3WOg2ojw",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100011245335006",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saajansangha",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/devmanush_raky/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/DevmanushRaky",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Knit - SULTANPUR",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "still learning",
+        "description": "Apearing in 2nd Year"
+      }
+    ],
+    "work": [
+      {
+        "company": "PAPA",
+        "title": "Student of Sonny",
+        "years": "Dec 2020 - Present",
+        "description": "Want to be a Full Stack Devloper. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "25%"
+      },
+      {
+        "name": "Python",
+        "level": "15%"
+      },
+      {
+        "name": "Git",
+        "level": "3%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "20%"
+      },
+      {
+        "name": "Web Development",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "download.jpg",
+        "url": "https://clone-15917.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
